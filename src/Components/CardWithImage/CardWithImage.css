@@ -1,0 +1,28 @@
+#profilecard{
+    width:200px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 30px;
+
+}
+
+.moviesImg{
+    height: 500px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.card-body{
+    background-color: black;
+    color: white;
+}
+
+.card-title{
+    color: white;
+    font-size: 150%;
+}
+
+.card-title:hover{
+    color: red;
+    
+}

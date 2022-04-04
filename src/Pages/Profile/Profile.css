@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+#heading{
+    text-align: center;
+    color: white;
+}
+
+.manageProfile{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 520px;
+}

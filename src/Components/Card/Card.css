@@ -1,0 +1,10 @@
+.card-header{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 120%;
+}
+
+.location{
+    font-size: 90%;
+}

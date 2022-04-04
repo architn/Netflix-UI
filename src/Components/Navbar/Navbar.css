@@ -1,0 +1,27 @@
+li {
+    display: inline;
+    margin-right: 70px;
+    font-size: 110%;
+    list-style-type: none;
+  }
+
+  .link{
+    text-decoration: none;
+    color: white;
+  }
+
+  .link:hover{
+    color: red;
+  }
+
+  .logo{
+    width: 200px;
+  }
+
+  #navbar{
+    background-color: black;
+  }
+
+  #menuOptions{
+    margin-left: 400px;
+  }
