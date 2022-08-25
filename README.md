@@ -1,8 +1,7 @@
-# Netflix UI Cone
+# Netflix UI Clone
 
-As a part of this project, I attempted to clone Netflix's famous black and red theme using its Navigation, Home, Profile, Jobs pages
+As a part of this project, I attempted to clone Netflix's famous black and red theme using its Navigation, Home, Profile, Jobs pages. Below are the screenshots:
 
-## Screenshots
 
 ## Home: 
 
